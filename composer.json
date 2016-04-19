@@ -1,0 +1,12 @@
+{
+    "name": "thesebas/rmqplayground",
+    "require": {
+        "php-amqplib/php-amqplib": "2.5"
+    },
+    "authors": [
+        {
+            "name": "thesebas",
+            "email": "thesebas@thesebas.net"
+        }
+    ]
+}
