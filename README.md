@@ -1,1 +1,1 @@
-"#rmqplayground" 
+#rmqplayground
